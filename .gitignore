@@ -16,3 +16,6 @@ dist/
 
 # 環境
 .env
+
+# 私人筆記,不上 GitHub
+interview_prep.md
